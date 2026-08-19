@@ -17,4 +17,5 @@ Para os alunos verem um exemplo dessa atividade, resolvi criar o meu blog també
 
 ## Posts
 
-[1. Computação Visual?](Blog1.md) (12/08/2026)
+[1. Computação Visual?](Blog1.md) (12/08/2026) <br>
+[2. Diferença entre cores na vida real e na computação](Blog2.md) (18/08/2026)
