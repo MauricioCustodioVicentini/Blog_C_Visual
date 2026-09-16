@@ -19,5 +19,5 @@ Para os alunos verem um exemplo dessa atividade, resolvi criar o meu blog també
 
 [1. Computação Visual?](Blog1.md) (12/08/2026) <br>
 [2. Diferença entre cores na vida real e na computação](Blog2.md) (18/08/2026) <br>
-[3. Transformações de Intensidade](Blog3.md) (01/09/2026)
+[3. Transformações de Intensidade](Blog3.md) (01/09/2026)  <br>
 [4. Processamento de Histograma](Blog4.md) (15/09/2026)
