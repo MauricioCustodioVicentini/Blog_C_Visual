@@ -22,5 +22,5 @@ Para os alunos verem um exemplo dessa atividade, resolvi criar o meu blog també
 [3. Transformações de Intensidade](Blog3.md) (01/09/2026)  <br>
 [4. Processamento de Histograma](Blog4.md) (15/09/2026) <br>
 [6. Detecção de Bordas em Imagens Digitais](Blog6.md) (27/10/2026) <br>
-[7. Aliasing e Antialiasing em Imagens Digitais](Blog7.md) (27/10/2026)
-
+[7. Aliasing e Antialiasing em Imagens Digitais](Blog7.md) (27/10/2026)<br>
+[8. Considerações Finais – Computação Visual](Blog8.md) (10/11/2026)
